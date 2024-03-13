@@ -1,5 +1,6 @@
 set number
 set tabstop=2 shiftwidth=2 expandtab
+set clipboard^=unnamed,unnamedplus
 
 " highlights
 hi Visual cterm=none ctermfg=Black ctermbg=LightGrey
