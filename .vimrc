@@ -1,4 +1,9 @@
 set number
+set tabstop=2 shiftwidth=2 expandtab
+
+" highlights
+hi Visual cterm=none ctermfg=Black ctermbg=LightGrey
+hi MatchParen term=none ctermbg=Green guibg=Cyan
 
 " disable bell sound
 set visualbell
